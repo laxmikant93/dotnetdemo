@@ -1,0 +1,12 @@
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\bin\Debug\net8.0\MyApp.Models.deps.json
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\bin\Debug\net8.0\MyApp.Models.dll
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\bin\Debug\net8.0\MyApp.Models.pdb
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.sourcelink.json
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.dll
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\refint\MyApp.Models.dll
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\MyApp.Models.pdb
+C:\Users\laxmi\OneDrive\Desktop\dotnetdemo\MyApp.Models\obj\Debug\net8.0\ref\MyApp.Models.dll
